@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multihilos</string>
+    <string name="txt1">Working...</string>
+    <string name="txt2">returned from thread...</string>
+</resources>
